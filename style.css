@@ -1,0 +1,21 @@
+.unordered-list{
+    list-style: none;
+    color: blue;
+    font-size: 25px;
+    font-weight: 600;
+}
+.new-para{
+    color: brown;
+    font-size: 22px;
+    font-weight: 600;
+}
+.order-list{
+    border: 5px solid blueviolet;
+    font-size: 20px;
+    padding: 20px 50px;
+}
+.dynamic-design{
+    color: blue;
+    font-size: 25px;
+    font-weight: 600;
+}
